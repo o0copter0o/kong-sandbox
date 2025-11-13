@@ -3,8 +3,8 @@ learning kong
 
 Structure
 ```
-kong-local/
-  ├── docker-compose.yml
+kong-sandbox/
+  ├── docker-compose.yaml
   └── config/
-       └── kong.yml
+       └── kong.yaml
 ```
